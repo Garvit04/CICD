@@ -13,7 +13,7 @@ public class Prod {
 
 private static final String POST_URL = "https://api.boomi.com/api/rest/v1/traininggarvitmaheshwari-PSQHLZ/DeployedPackage/";
 
-private static final String POST_PARAMS = "{\n" + "\"environmentId\" : \"b296bb79-ed4c-4e45-a7d9-2c67ec38d70a\",\r\n" + "\"packageId\" : \"abb7d77b-8c17-4814-a549-5195c961c339\",\r\n" + "\"notes\" : \"Package deployment via Rest request\"" + "\n}";
+private static final String POST_PARAMS = "{\n" + "\"environmentId\" : \"b296bb79-ed4c-4e45-a7d9-2c67ec38d70a\",\r\n" + "\"packageId\" : \"2b9e6d3a-fdae-483a-8581-62f62e4dc5cc\",\r\n" + "\"notes\" : \"Package deployment via Rest request\"" + "\n}";
 
 public static void main(String[] args) throws IOException {
 
